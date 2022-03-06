@@ -21,10 +21,10 @@ namespace catalog
                 new Book{Name="Clean Code", Author="Robert Martin", Pages=464,ImageUrl="clean.jpg", InStock=15, Price=87.00 }
             };
 
-            // Add the book to the context
+            // Add the book to the context of that file name
             ctx.Books.AddRange(books);
 
-            // Save changes to the DB
+            // Save changes to the DB with proper autentication
             ctx.SaveChanges();
             System.Console.WriteLine($"Loaded {ctx.Books.Count()} books");
         }

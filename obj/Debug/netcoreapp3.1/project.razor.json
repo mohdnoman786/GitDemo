@@ -1,5 +1,5 @@
 {
-  "FilePath": "c:\\ReadIt\\catalog\\catalog.csproj",
+  "FilePath": "c:\\Git  Stuff\\GitDemo\\catalog.csproj",
   "Configuration": {
     "ConfigurationName": "MVC-3.0",
     "LanguageVersion": "3.0",
@@ -14402,33 +14402,33 @@
   "RootNamespace": "catalog",
   "Documents": [
     {
-      "FilePath": "c:\\ReadIt\\catalog\\Pages\\Index.cshtml",
+      "FilePath": "c:\\Git  Stuff\\GitDemo\\Pages\\Shared\\_Layout.cshtml",
+      "TargetPath": "Pages\\Shared\\_Layout.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "c:\\Git  Stuff\\GitDemo\\Pages\\Index.cshtml",
       "TargetPath": "Pages\\Index.cshtml",
       "FileKind": "mvc"
     },
     {
-      "FilePath": "c:\\ReadIt\\catalog\\Pages\\Weather.cshtml",
-      "TargetPath": "Pages\\Weather.cshtml",
-      "FileKind": "mvc"
-    },
-    {
-      "FilePath": "c:\\ReadIt\\catalog\\Pages\\_ViewStart.cshtml",
-      "TargetPath": "Pages\\_ViewStart.cshtml",
-      "FileKind": "mvc"
-    },
-    {
-      "FilePath": "c:\\ReadIt\\catalog\\Pages\\_ViewImports.cshtml",
-      "TargetPath": "Pages\\_ViewImports.cshtml",
-      "FileKind": "mvc"
-    },
-    {
-      "FilePath": "c:\\ReadIt\\catalog\\Pages\\Shared\\_ValidationScriptsPartial.cshtml",
+      "FilePath": "c:\\Git  Stuff\\GitDemo\\Pages\\Shared\\_ValidationScriptsPartial.cshtml",
       "TargetPath": "Pages\\Shared\\_ValidationScriptsPartial.cshtml",
       "FileKind": "mvc"
     },
     {
-      "FilePath": "c:\\ReadIt\\catalog\\Pages\\Shared\\_Layout.cshtml",
-      "TargetPath": "Pages\\Shared\\_Layout.cshtml",
+      "FilePath": "c:\\Git  Stuff\\GitDemo\\Pages\\_ViewStart.cshtml",
+      "TargetPath": "Pages\\_ViewStart.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "c:\\Git  Stuff\\GitDemo\\Pages\\Weather.cshtml",
+      "TargetPath": "Pages\\Weather.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "c:\\Git  Stuff\\GitDemo\\Pages\\_ViewImports.cshtml",
+      "TargetPath": "Pages\\_ViewImports.cshtml",
       "FileKind": "mvc"
     }
   ],

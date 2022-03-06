@@ -24,7 +24,7 @@ namespace catalog
             // Add the book to the context of that file name
             ctx.Books.AddRange(books);
 
-            // Save changes to the DB with proper autentication
+            // Save changes to the DB with proper autentication last change 
             ctx.SaveChanges();
             System.Console.WriteLine($"Loaded {ctx.Books.Count()} books");
         }

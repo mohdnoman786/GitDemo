@@ -24,7 +24,7 @@ namespace catalog
             // Add the book to the context of that file name
             ctx.Books.AddRange(books);
 
-            // Save changes to the DB with proper autentication last change 
+            // Save changes to the DB with proper autentication last change i am amking some random changes 
             ctx.SaveChanges();
             System.Console.WriteLine($"Loaded {ctx.Books.Count()} books");
         }
